@@ -1,0 +1,13 @@
+{
+  "name": "chroma-catalogue",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Source-of-truth colour scales and engineered hues.",
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}

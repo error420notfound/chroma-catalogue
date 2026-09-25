@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "catalogue": "chroma-catalogue",
+  "scales": {
+    "index": "./scales/index.json",
+    "count": 29
+  },
+  "engineered": {
+    "index": "./engineered/index.json",
+    "count": 42
+  }
+}
